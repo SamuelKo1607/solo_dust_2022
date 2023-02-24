@@ -1,6 +1,6 @@
 # Modelling Solar Orbiter Dust Detection Rates in Inner Heliosphere as a Poisson Process
 
-This repository contains the code used to perform analyses described in the article, freely accessible at TBD
+This repository contains the code used to perform analyses described in the article, freely accessible at https://doi.org/10.1051/0004-6361/202245165
 
 ### Article Abstract
 *Context.* Solar Orbiter provides dust detection capability in inner heliosphere, but estimating physical properties of detected dust from
